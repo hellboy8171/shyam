@@ -1,0 +1,6 @@
+devtmpfs                 908M     0  908M   0% /dev
+tmpfs                    920M     0  920M   0% /dev/shm
+/dev/mapper/centos-root   55G  6.8G   49G  13% /
+/dev/sda1               1014M  155M  860M  16% /boot
+shm                       64M     0   64M   0% /var/lib/docker/containers/ad1bdf5b0db1de4bd6868469787535dd55e5caceb97502e3c7996b7e98bda231/mounts/shm
+shm                       64M     0   64M   0% /var/lib/docker/containers/2472af5dbe8e21a6ef92335c5def92e2f86e7c79f968939343618d805f53e096/mounts/shm
